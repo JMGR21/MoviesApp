@@ -1,0 +1,73 @@
+#app {
+    width: 900px;
+    text-align: center;
+    margin: 0px auto;
+    border: 1px solid #ccc;
+}
+
+h1 {
+    text-align: left;
+    padding: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.container div {
+    margin-top: 20px;
+    float: left;
+}
+
+.poster {
+    width: 40%;
+    text-align: center;
+}
+
+.poster img {
+    margin: 0 auto;
+}
+
+.poster .nd {
+    width: 300px;
+    height: 447px;
+}
+
+.info {
+    width: 60%;
+    text-align: left;
+}
+
+footer {
+    clear: left;
+    background-color: salmon;
+    padding: 1px;
+}
+
+footer p {
+    font-weight: bold;
+    font-size: 18px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.searcher {
+    margin: 0 25px;
+}
+
+.searcher .search {
+    width: 100%;
+    margin-right: 10px;
+}
+
+.searcher .search {
+    font-family: 'Roboto', sans-serif;
+    color: rgb(0, 0, 0);
+    font-size: 1.2rem;
+    margin: 0 auto;
+    padding: 1.5rem 2rem;
+    border-radius: 0.2rem;
+    background-color: rgb(211, 206, 206);
+    border: none;
+    width: 90%;
+    display: block;
+    border-bottom: 0.3rem solid transparent;
+    transition: all 0.3s;
+}
+  
